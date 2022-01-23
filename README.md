@@ -1,5 +1,5 @@
 # steeef
-A customized version of the [steeef theme](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/steeef.zsh-theme) for zsh.
+A customized version of the [steeef theme](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/steeef.zsh-theme) for [zim](https://github.com/zimfw/zimfw).
 
 #### How is this different to the original?
 - Added left-hand side decoration
